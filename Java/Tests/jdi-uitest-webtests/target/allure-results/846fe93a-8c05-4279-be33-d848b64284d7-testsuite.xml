@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:test-suite xmlns:ns2="urn:model.allure.qatools.yandex.ru" start="1460732628471" stop="1460732637881" version="1.4.5">
+    <name>TestAll</name>
+    <title>TestAll : checkBox[]</title>
+    <test-cases>
+        <test-case start="1460732628565" stop="1460732628716" status="passed">
+            <name>checkSingleTest</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="EPRUPETW6283"/>
+                <label name="thread" value="2268@EPRUPETW6283.main"/>
+            </labels>
+        </test-case>
+        <test-case start="1460732628846" stop="1460732629091" status="passed">
+            <name>clickTest</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="EPRUPETW6283"/>
+                <label name="thread" value="2268@EPRUPETW6283.main"/>
+            </labels>
+        </test-case>
+        <test-case start="1460732629216" stop="1460732629308" status="passed">
+            <name>isCheckTest</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="EPRUPETW6283"/>
+                <label name="thread" value="2268@EPRUPETW6283.main"/>
+            </labels>
+        </test-case>
+        <test-case start="1460732629436" stop="1460732629588" status="passed">
+            <name>multiCheckTest</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="EPRUPETW6283"/>
+                <label name="thread" value="2268@EPRUPETW6283.main"/>
+            </labels>
+        </test-case>
+        <test-case start="1460732629716" stop="1460732629974" status="passed">
+            <name>multiUncheckTest</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="EPRUPETW6283"/>
+                <label name="thread" value="2268@EPRUPETW6283.main"/>
+            </labels>
+        </test-case>
+        <test-case start="1460732630104" stop="1460732630242" status="passed">
+            <name>setValue[true,true]</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="EPRUPETW6283"/>
+                <label name="thread" value="2268@EPRUPETW6283.main"/>
+            </labels>
+        </test-case>
+        <test-case start="1460732630371" stop="1460732630497" status="passed">
+            <name>setValue[1,true]</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="EPRUPETW6283"/>
+                <label name="thread" value="2268@EPRUPETW6283.main"/>
+            </labels>
+        </test-case>
+        <test-case start="1460732630643" stop="1460732630849" status="passed">
+            <name>setValue[false,false]</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="EPRUPETW6283"/>
+                <label name="thread" value="2268@EPRUPETW6283.main"/>
+            </labels>
+        </test-case>
+        <test-case start="1460732630977" stop="1460732631188" status="passed">
+            <name>setValue[0,false]</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="EPRUPETW6283"/>
+                <label name="thread" value="2268@EPRUPETW6283.main"/>
+            </labels>
+        </test-case>
+        <test-case start="1460732631328" stop="1460732631567" status="passed">
+            <name>setValueNothing2Changed[true ]</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="EPRUPETW6283"/>
+                <label name="thread" value="2268@EPRUPETW6283.main"/>
+            </labels>
+        </test-case>
+        <test-case start="1460732631704" stop="1460732631909" status="passed">
+            <name>setValueNothing2Changed[1 ]</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="EPRUPETW6283"/>
+                <label name="thread" value="2268@EPRUPETW6283.main"/>
+            </labels>
+        </test-case>
+        <test-case start="1460732632038" stop="1460732632280" status="passed">
+            <name>setValueNothing2Changed[ false]</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="EPRUPETW6283"/>
+                <label name="thread" value="2268@EPRUPETW6283.main"/>
+            </labels>
+        </test-case>
+        <test-case start="1460732632408" stop="1460732632619" status="passed">
+            <name>setValueNothing2Changed[0 ]</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="EPRUPETW6283"/>
+                <label name="thread" value="2268@EPRUPETW6283.main"/>
+            </labels>
+        </test-case>
+        <test-case start="1460732632745" stop="1460732632953" status="passed">
+            <name>setValueNothing2Changed[ ]</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="EPRUPETW6283"/>
+                <label name="thread" value="2268@EPRUPETW6283.main"/>
+            </labels>
+        </test-case>
+        <test-case start="1460732633080" stop="1460732633293" status="passed">
+            <name>setValueNothing2Changed[123]</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="EPRUPETW6283"/>
+                <label name="thread" value="2268@EPRUPETW6283.main"/>
+            </labels>
+        </test-case>
+        <test-case start="1460732633419" stop="1460732633625" status="passed">
+            <name>setValueNothing2Changed[ 1]</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="EPRUPETW6283"/>
+                <label name="thread" value="2268@EPRUPETW6283.main"/>
+            </labels>
+        </test-case>
+        <test-case start="1460732633754" stop="1460732633997" status="passed">
+            <name>setValueNothing2Changed[ 0]</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="EPRUPETW6283"/>
+                <label name="thread" value="2268@EPRUPETW6283.main"/>
+            </labels>
+        </test-case>
+        <test-case start="1460732634125" stop="1460732634337" status="passed">
+            <name>setValueNothing2Changed[!@#$%^&amp;*]</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="EPRUPETW6283"/>
+                <label name="thread" value="2268@EPRUPETW6283.main"/>
+            </labels>
+        </test-case>
+        <test-case start="1460732634461" stop="1460732634711" status="passed">
+            <name>setValueNothing2Changed[qwdewf]</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="EPRUPETW6283"/>
+                <label name="thread" value="2268@EPRUPETW6283.main"/>
+            </labels>
+        </test-case>
+        <test-case start="1460732634838" stop="1460732635054" status="passed">
+            <name>setValueNothing2Changed[1qwe]</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="EPRUPETW6283"/>
+                <label name="thread" value="2268@EPRUPETW6283.main"/>
+            </labels>
+        </test-case>
+        <test-case start="1460732635177" stop="1460732635394" status="passed">
+            <name>setValueNothing2Changed[true123]</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="EPRUPETW6283"/>
+                <label name="thread" value="2268@EPRUPETW6283.main"/>
+            </labels>
+        </test-case>
+        <test-case start="1460732635519" stop="1460732635764" status="passed">
+            <name>setValueNothing2Changed[123true]</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="EPRUPETW6283"/>
+                <label name="thread" value="2268@EPRUPETW6283.main"/>
+            </labels>
+        </test-case>
+        <test-case start="1460732635891" stop="1460732636096" status="passed">
+            <name>setValueNothing2Changed[false123]</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="EPRUPETW6283"/>
+                <label name="thread" value="2268@EPRUPETW6283.main"/>
+            </labels>
+        </test-case>
+        <test-case start="1460732636225" stop="1460732636471" status="passed">
+            <name>setValueNothing2Changed[123false]</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="EPRUPETW6283"/>
+                <label name="thread" value="2268@EPRUPETW6283.main"/>
+            </labels>
+        </test-case>
+        <test-case start="1460732636594" stop="1460732636805" status="passed">
+            <name>setValueNothing2Changed[o]</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="EPRUPETW6283"/>
+                <label name="thread" value="2268@EPRUPETW6283.main"/>
+            </labels>
+        </test-case>
+        <test-case start="1460732636941" stop="1460732637151" status="passed">
+            <name>setValueNothing2Changed[O]</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="EPRUPETW6283"/>
+                <label name="thread" value="2268@EPRUPETW6283.main"/>
+            </labels>
+        </test-case>
+        <test-case start="1460732637280" stop="1460732637527" status="passed">
+            <name>setValueNothing2Changed[tr ue]</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="EPRUPETW6283"/>
+                <label name="thread" value="2268@EPRUPETW6283.main"/>
+            </labels>
+        </test-case>
+        <test-case start="1460732637659" stop="1460732637880" status="passed">
+            <name>uncheckSingleTest</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="EPRUPETW6283"/>
+                <label name="thread" value="2268@EPRUPETW6283.main"/>
+            </labels>
+        </test-case>
+    </test-cases>
+    <labels>
+        <label name="framework" value="TestNG"/>
+        <label name="language" value="JAVA"/>
+    </labels>
+</ns2:test-suite>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:test-suite xmlns:ns2="urn:model.allure.qatools.yandex.ru" start="1460739033428" stop="1460739044392" version="1.4.5">
+    <name>Default Suite</name>
+    <title>Default Suite : jdi-uitest-framework[]</title>
+    <test-cases>
+        <test-case start="1460739034130" stop="1460739037430" status="passed">
+            <name>checkCurrentYearByDefault</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="EPRUPETW6283"/>
+                <label name="thread" value="13008@EPRUPETW6283.main"/>
+            </labels>
+        </test-case>
+        <test-case start="1460739038043" stop="1460739044389" status="passed">
+            <name>selectPreviousYear</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="EPRUPETW6283"/>
+                <label name="thread" value="13008@EPRUPETW6283.main"/>
+            </labels>
+        </test-case>
+    </test-cases>
+    <labels>
+        <label name="framework" value="TestNG"/>
+        <label name="language" value="JAVA"/>
+    </labels>
+</ns2:test-suite>

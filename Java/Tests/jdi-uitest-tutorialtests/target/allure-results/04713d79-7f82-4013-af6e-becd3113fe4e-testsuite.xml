@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:test-suite xmlns:ns2="urn:model.allure.qatools.yandex.ru" start="1460724231981" stop="1460724238227" version="1.4.5">
+    <name>All Trainings Tests</name>
+    <title>All Trainings Tests : Ideas page tests[]</title>
+    <test-cases>
+        <test-case start="1460724232542" stop="1460724233608" status="passed">
+            <name>checkEmptyFilter</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="EPRUPETW6283"/>
+                <label name="thread" value="9664@EPRUPETW6283.main"/>
+            </labels>
+        </test-case>
+        <test-case start="1460724234160" stop="1460724238226" status="passed">
+            <name>checkVideosFilter</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="EPRUPETW6283"/>
+                <label name="thread" value="9664@EPRUPETW6283.main"/>
+            </labels>
+        </test-case>
+    </test-cases>
+    <labels>
+        <label name="framework" value="TestNG"/>
+        <label name="language" value="JAVA"/>
+    </labels>
+</ns2:test-suite>

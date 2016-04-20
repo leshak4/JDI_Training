@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:test-suite xmlns:ns2="urn:model.allure.qatools.yandex.ru" start="1460732645153" stop="1460732645973" version="1.4.5">
+    <name>TestAll</name>
+    <title>TestAll : image[]</title>
+    <test-cases>
+        <test-case start="1460732645236" stop="1460732645462" status="passed">
+            <name>clickTest</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="EPRUPETW6283"/>
+                <label name="thread" value="2268@EPRUPETW6283.main"/>
+            </labels>
+        </test-case>
+        <test-case start="1460732645578" stop="1460732645626" status="passed">
+            <name>getSourceTest</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="EPRUPETW6283"/>
+                <label name="thread" value="2268@EPRUPETW6283.main"/>
+            </labels>
+        </test-case>
+        <test-case start="1460732645749" stop="1460732645800" status="passed">
+            <name>getTipTest</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="EPRUPETW6283"/>
+                <label name="thread" value="2268@EPRUPETW6283.main"/>
+            </labels>
+        </test-case>
+        <test-case start="1460732645915" stop="1460732645972" status="passed">
+            <name>setAttributeTest</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="EPRUPETW6283"/>
+                <label name="thread" value="2268@EPRUPETW6283.main"/>
+            </labels>
+        </test-case>
+    </test-cases>
+    <labels>
+        <label name="framework" value="TestNG"/>
+        <label name="language" value="JAVA"/>
+    </labels>
+</ns2:test-suite>

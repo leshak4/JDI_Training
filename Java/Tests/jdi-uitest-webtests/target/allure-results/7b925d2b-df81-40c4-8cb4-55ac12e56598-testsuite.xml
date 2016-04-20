@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:test-suite xmlns:ns2="urn:model.allure.qatools.yandex.ru" start="1460536359386" stop="1460536365159" version="1.4.5">
+    <name>Default Suite</name>
+    <title>Default Suite : jdi-uitest-framework[]</title>
+    <test-cases>
+        <test-case start="1460536359928" stop="1460536359930" status="passed">
+            <name>getNameTest</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="EPRUPETW6283"/>
+                <label name="thread" value="8836@EPRUPETW6283.main"/>
+            </labels>
+        </test-case>
+        <test-case start="1460536360269" stop="1460536360489" status="passed">
+            <name>getNamesTest</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="EPRUPETW6283"/>
+                <label name="thread" value="8836@EPRUPETW6283.main"/>
+            </labels>
+        </test-case>
+        <test-case start="1460536360671" stop="1460536360860" status="passed">
+            <name>getOptionsAsTextTest</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="EPRUPETW6283"/>
+                <label name="thread" value="8836@EPRUPETW6283.main"/>
+            </labels>
+        </test-case>
+        <test-case start="1460536361020" stop="1460536361219" status="passed">
+            <name>getOptionsTest</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="EPRUPETW6283"/>
+                <label name="thread" value="8836@EPRUPETW6283.main"/>
+            </labels>
+        </test-case>
+        <test-case start="1460536361366" stop="1460536362047" status="passed">
+            <name>getSelectedIndexTest</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="EPRUPETW6283"/>
+                <label name="thread" value="8836@EPRUPETW6283.main"/>
+            </labels>
+        </test-case>
+        <test-case start="1460536362222" stop="1460536362251" status="passed">
+            <name>getSelectedTest</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="EPRUPETW6283"/>
+                <label name="thread" value="8836@EPRUPETW6283.main"/>
+            </labels>
+        </test-case>
+        <test-case start="1460536362406" stop="1460536362434" status="passed">
+            <name>getValueTest</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="EPRUPETW6283"/>
+                <label name="thread" value="8836@EPRUPETW6283.main"/>
+            </labels>
+        </test-case>
+        <test-case start="1460536362591" stop="1460536362803" status="passed">
+            <name>getValuesTest</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="EPRUPETW6283"/>
+                <label name="thread" value="8836@EPRUPETW6283.main"/>
+            </labels>
+        </test-case>
+        <test-case start="1460536362949" stop="1460536362979" status="passed">
+            <name>isSelectedEnumTest</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="EPRUPETW6283"/>
+                <label name="thread" value="8836@EPRUPETW6283.main"/>
+            </labels>
+        </test-case>
+        <test-case start="1460536363128" stop="1460536363155" status="passed">
+            <name>isSelectedTest</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="EPRUPETW6283"/>
+                <label name="thread" value="8836@EPRUPETW6283.main"/>
+            </labels>
+        </test-case>
+        <test-case start="1460536363305" stop="1460536363606" status="passed">
+            <name>selectEnumTest</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="EPRUPETW6283"/>
+                <label name="thread" value="8836@EPRUPETW6283.main"/>
+            </labels>
+        </test-case>
+        <test-case start="1460536363748" stop="1460536363917" status="passed">
+            <name>selectIndexTest</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="EPRUPETW6283"/>
+                <label name="thread" value="8836@EPRUPETW6283.main"/>
+            </labels>
+        </test-case>
+        <test-case start="1460536364077" stop="1460536364349" status="passed">
+            <name>selectStringTest</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="EPRUPETW6283"/>
+                <label name="thread" value="8836@EPRUPETW6283.main"/>
+            </labels>
+        </test-case>
+        <test-case start="1460536364517" stop="1460536364801" status="passed">
+            <name>setValueTest</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="EPRUPETW6283"/>
+                <label name="thread" value="8836@EPRUPETW6283.main"/>
+            </labels>
+        </test-case>
+        <test-case start="1460536364959" stop="1460536364986" status="passed">
+            <name>waitSelectedEnumTest</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="EPRUPETW6283"/>
+                <label name="thread" value="8836@EPRUPETW6283.main"/>
+            </labels>
+        </test-case>
+        <test-case start="1460536365129" stop="1460536365157" status="passed">
+            <name>waitSelectedTest</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="EPRUPETW6283"/>
+                <label name="thread" value="8836@EPRUPETW6283.main"/>
+            </labels>
+        </test-case>
+    </test-cases>
+    <labels>
+        <label name="framework" value="TestNG"/>
+        <label name="language" value="JAVA"/>
+    </labels>
+</ns2:test-suite>

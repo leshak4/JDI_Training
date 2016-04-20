@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/JDI/jdi-commons/jdi-commons.iml" filepath="$PROJECT_DIR$/JDI/jdi-commons/jdi-commons.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JDI/jdi-matchers/jdi-matchers.iml" filepath="$PROJECT_DIR$/JDI/jdi-matchers/jdi-matchers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JDI/jdi-uitest-core/jdi-uitest-core.iml" filepath="$PROJECT_DIR$/JDI/jdi-uitest-core/jdi-uitest-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JDI/jdi-uitest-cucumber/jdi-uitest-cucumber.iml" filepath="$PROJECT_DIR$/JDI/jdi-uitest-cucumber/jdi-uitest-cucumber.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tests/jdi-uitest-cucumbertests/jdi-uitest-cucumbertests.iml" filepath="$PROJECT_DIR$/Tests/jdi-uitest-cucumbertests/jdi-uitest-cucumbertests.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jdi-uitest-framework.iml" filepath="$PROJECT_DIR$/jdi-uitest-framework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JDI/jdi-uitest-gui/jdi-uitest-gui.iml" filepath="$PROJECT_DIR$/JDI/jdi-uitest-gui/jdi-uitest-gui.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tests/jdi-uitest-guitests/jdi-uitest-guitests.iml" filepath="$PROJECT_DIR$/Tests/jdi-uitest-guitests/jdi-uitest-guitests.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JDI/jdi-uitest-mobile/jdi-uitest-mobile.iml" filepath="$PROJECT_DIR$/JDI/jdi-uitest-mobile/jdi-uitest-mobile.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tests/jdi-uitest-mobiletests/jdi-uitest-mobiletests.iml" filepath="$PROJECT_DIR$/Tests/jdi-uitest-mobiletests/jdi-uitest-mobiletests.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tests/jdi-uitest-tutorialtests/jdi-uitest-tutorialtests.iml" filepath="$PROJECT_DIR$/Tests/jdi-uitest-tutorialtests/jdi-uitest-tutorialtests.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JDI/jdi-uitest-web/jdi-uitest-web.iml" filepath="$PROJECT_DIR$/JDI/jdi-uitest-web/jdi-uitest-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tests/jdi-uitest-webtests/jdi-uitest-webtests.iml" filepath="$PROJECT_DIR$/Tests/jdi-uitest-webtests/jdi-uitest-webtests.iml" />
+    </modules>
+  </component>
+</project>

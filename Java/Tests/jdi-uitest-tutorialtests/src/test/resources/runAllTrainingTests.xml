@@ -1,0 +1,20 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="All Trainings Tests">
+
+    <test name="Menu">
+        <classes>
+            <class name="com.epam.jdi.uitests.testing.appln.common.tests.MenuTests"/>
+        </classes>
+    </test>
+    <test name="Events page tests">
+        <classes>
+            <class name="com.epam.jdi.uitests.testing.appln.common.tests.EventsTests"/>
+        </classes>
+    </test>
+    <test name="Ideas page tests">
+        <classes>
+            <class name="com.epam.jdi.uitests.testing.appln.common.tests.IdeasTests"/>
+        </classes>
+    </test>
+
+</suite>

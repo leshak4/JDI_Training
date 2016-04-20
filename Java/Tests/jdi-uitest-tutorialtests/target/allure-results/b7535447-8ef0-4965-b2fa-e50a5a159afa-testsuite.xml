@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:test-suite xmlns:ns2="urn:model.allure.qatools.yandex.ru" start="1460734380453" stop="1460734388599" version="1.4.5">
+    <name>All Trainings Tests</name>
+    <title>All Trainings Tests : Events page tests[]</title>
+    <test-cases>
+        <test-case start="1460734381021" stop="1460734383233" status="passed">
+            <name>checkCurrentYearByDefault</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="EPRUPETW6283"/>
+                <label name="thread" value="3368@EPRUPETW6283.main"/>
+            </labels>
+        </test-case>
+        <test-case start="1460734383806" stop="1460734388598" status="passed">
+            <name>selectPreviousYear</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="EPRUPETW6283"/>
+                <label name="thread" value="3368@EPRUPETW6283.main"/>
+            </labels>
+        </test-case>
+    </test-cases>
+    <labels>
+        <label name="framework" value="TestNG"/>
+        <label name="language" value="JAVA"/>
+    </labels>
+</ns2:test-suite>
